@@ -3,8 +3,8 @@
 # Hello there! My name is Sean Wu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a 3rd year computer engineering student at the University of Toronto (EngSci ECE
-2T2). Currently, I work on computer vision and running gait analysis on my soon-to-be-
-released Android app [FluidStride](https://myfluidstride.com).
+2T2). Currently, I work on computer vision and running gait analysis on my soon-to-be-released
+Android app [FluidStride](https://myfluidstride.com).
 
 I'm passionate about 2D/3D human pose estimation (HPE), signal processing, biomechanics, and software architecture.
 
@@ -15,7 +15,7 @@ MOOC classes. Check out some of my side projects and MOOC LaTeX study notes!
 
 Recently, I was a summer research intern at Prof. Genov's [Intelligent Sensory Microsystems Laboratory](https://www.eecg.utoronto.ca/~roman/lab/index.html) at the University of Toronto. I worked on developing new 3D computational imaging applications with Structured Light and Coded Exposure Cameras.
 
-Before that, I researched and develpoed a mathematical model for MATLAB simulations
+Before that, I researched and developed a mathematical model for MATLAB simulations
 of energy efficient air conditioners at the National University of Singapore.
 
 # 🛠 Tech Stack
